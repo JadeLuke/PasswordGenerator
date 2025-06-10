@@ -33,7 +33,6 @@ cursor: pointer;
 .container button{
     border: none;
     outline: none;
-    /* background: #019f55; */
     background: #083D77;
     color: #fff;
     font-size: 22px;
